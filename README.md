@@ -1,1 +1,1 @@
-zomato landing page using HTML , CSS and JS
+Zomato landing page using HTML , CSS and JS
